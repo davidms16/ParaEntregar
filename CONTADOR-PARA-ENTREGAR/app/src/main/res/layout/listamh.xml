@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:cardCornerRadius="20dp"
+        xmlns:android="http://schemas.android.com/apk/res/android">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:padding="6dp">
+
+                    <ImageView
+                        android:id="@+id/imgper"
+                        android:layout_width="120dp"
+                        android:layout_height="86dp"
+                        android:layout_gravity="center"
+                        android:paddingLeft="14dp"
+                        android:paddingRight="14dp"
+                        android:src="@drawable/cwg1" />
+
+                    <LinearLayout
+                        android:layout_width="280dp"
+                        android:layout_height="89dp"
+                        android:layout_marginStart="4dp"
+                        android:layout_toEndOf="@+id/imgper"
+                        android:layout_toRightOf="@+id/imgper"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:id="@+id/nomper"
+                            android:layout_width="match_parent"
+                            android:layout_height="71dp"
+                            android:layout_marginBottom="2dp"
+                            android:text="Clawdeen Wolf (G1)"
+                            android:textColor="@color/black"
+                            android:textSize="24dp"
+                            android:textStyle="bold" />
+
+                    </LinearLayout>
+                </RelativeLayout>
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>

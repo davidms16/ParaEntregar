@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@drawable/playa"
+    tools:context=".PracticasGuiadas.ListView.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:text="@string/items_list" />
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="533dp" />
+
+    <ImageView
+        android:id="@+id/casita"
+        android:layout_width="89dp"
+        android:layout_height="89dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="32dp"
+        android:gravity="center"
+        android:onClick="atras"
+        app:srcCompat="@drawable/casita" />
+
+
+</LinearLayout>

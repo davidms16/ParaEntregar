@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--Colores 1-->
+    <color name="rosa_palido">#F5BAB6</color>
+    <color name="verde_claro">#9EA492</color>
+
+    <!--colores 2-->
+    <color name="gris_verdoso">#C7D8CA</color>
+    <color name="gris_azul">#A7C5C9</color>
+    <color name="ambar">#DF8B14</color>
+    <color name="azul">#2196F3</color>
+
+    <color name="shawn">#6b91b7</color>
+    <color name="xavier">#8b0a1f</color>
+    <color name="red">#FF0000</color>
+
+    <color name="fondo">#71E0F8</color>
+    <color name="mh">#FF340319</color>
+</resources>

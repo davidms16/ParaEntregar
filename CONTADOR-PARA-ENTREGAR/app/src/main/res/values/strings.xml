@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">CONTADOR-PARA-ENTREGAR</string>
+
+    <!--PANTALLA-->
+    <string name="creditos">Creditos: David Menendez</string>
+    <string name="titulo_p">Trading >Hall</string>
+
+    <!--BOTONES DE ACCION / OTROS-->
+    <string name="jugar">Jugar</string>
+    <string name="Informacion">Información</string>
+    <string name="exit">Salir</string>
+    <string name="opciones">Opciones</string>
+    <string name="no_op">Pusa para ver las opciones</string>
+    <string name="atras">Atrás</string>
+
+    <!--BOTONES DE MEJORA-->
+    <string name="multiplicador">MultiEmerildificador Coste: 100</string>
+    <string name="clicks">Aumenta Coste: 100</string>
+    <string name="autobuy">AutoEmerildificador Coste: 10</string>
+
+    <!--iNFORMACION-->
+    <string name="trading">Hall</string>
+    <string name="comida">Tipos de comida</string>
+    <string name="herramientas">Tipos de herramientas</string>
+    <string name="info">En el juego propio tienes un ranking (actualmente no funciona)</string>
+
+
+
+    <!--EQUIPOS-->
+    <string name="items">Items </string>
+    <string name="items_list">Lista de (algunos) items</string>'
+
+    <!--Mercazuma-->
+    <string name="hall">Trading Hall</string>
+    <string name="hall_em">Gasta aquí tus esmeraldas</string>
+    <string name="mb"></string>
+    <string name="ac"></string>
+    <string name="vol">Volver al juego</string>
+    <string name="emmers">Tus Esmeraldas: </string>
+
+
+    <!--MENUS CONTEXTUALES-->
+
+    <string name="mh">en proceso</string>
+    <string name="back">Cambien Imagen</string>
+    <string name="musica">Musica</string>
+
+    <!--MONSTER HIGH-->
+    <string name="entities">Algunas entidades</string>
+
+
+    <!--MUSICA-->
+    <string name="monsterhigh">Monster High</string>
+    <string name="ie">Inazuma Eleven</string>
+    <string name="lol">Paranoia (LoL)</string>
+
+    <string name="pas">Pausar</string>
+    <string name="stop">Stop</string>
+
+
+    <!--COMENTARIO BASE-->
+</resources>
